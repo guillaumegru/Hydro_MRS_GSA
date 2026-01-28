@@ -21,6 +21,10 @@ Jean-François Girard
 Philippe Ackerer
 Nolwenn Lesparre (lesparre@unistra.fr)
 
+## Help
+
+To reduce the size of the folders to upload, we compressed some outputs to zip files. In order for the postprocessing codes to run properly, one needs to extract the files in /Hydro_MRS_GSA_numexp_postprocess/Res_sim_1.zip and Res_sim_2.zip and place them into a folder named /Hydro_MRS_GSA_numexp_postprocess/Res_sim. Likewise, the pkl files storing the data relative to the PCE were zipped into 3 files, which need to be extracted to the folder \Hydro_MRS_GSA_numexp_postprocess\Data for the postprocessing notebook to run succesfully.
+
 
 ## Version History
 
