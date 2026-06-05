@@ -30,6 +30,7 @@ To reduce the size of the folders to upload, we compressed some outputs to zip f
 
 * 1.0
     * (01/28/2026) Initial Release: for submission to WRR
-
+* 1.1
+    * (06/05/2026) Bug correction: corrected depth of interface z_sapro/bedrock from 13m to 15m. For re-submission to HESS.   
 
 
